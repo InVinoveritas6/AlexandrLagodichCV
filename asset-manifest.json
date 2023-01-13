@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexandrLagodichCV/static/css/main.dd6652f7.css",
+    "main.js": "/AlexandrLagodichCV/static/js/main.29cd36a4.js",
+    "index.html": "/AlexandrLagodichCV/index.html",
+    "main.dd6652f7.css.map": "/AlexandrLagodichCV/static/css/main.dd6652f7.css.map",
+    "main.29cd36a4.js.map": "/AlexandrLagodichCV/static/js/main.29cd36a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6652f7.css",
+    "static/js/main.29cd36a4.js"
+  ]
+}
